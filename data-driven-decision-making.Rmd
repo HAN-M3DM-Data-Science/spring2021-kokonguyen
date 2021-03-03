@@ -10,7 +10,7 @@ title: "Assigment - Data Driven Decision Making" author: Koko Nguyen
 date: "`r format(Sys.time(), '%d %B, %Y')`" output: html_notebook: toc:
 yes toc_depth: 2
 
-<iframe width="560" height="315" src="https://youtu.be/m5Iij3zQp_w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5Iij3zQp_w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
 </iframe>
 
