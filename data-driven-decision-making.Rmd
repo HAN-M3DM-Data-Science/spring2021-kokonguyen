@@ -1,30 +1,52 @@
 ---
-title: "Assigment - Data Driven Decision Making"
-author: name author here
-date: "`r format(Sys.time(), '%d %B, %Y')`"
-output:
-  html_notebook:
-    toc: yes
-    toc_depth: 2
+editor_options:
+  markdown:
+    wrap: 72
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+------------------------------------------------------------------------
 
-<---- Watch this video if you don't know how to embed video's ---->
+title: "Assigment - Data Driven Decision Making" author: Koko Nguyen
+date: "`r format(Sys.time(), '%d %B, %Y')`" output: html_notebook: toc:
+yes toc_depth: 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/m5Iij3zQp_w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 
-<---- Replace this video with your business case example ---->
-
+</iframe>
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Walmart has been considered as one of a pioneers in using Data Science
+to upgrade their busniess across th U.S and to become the world's
+largest retailer. Using Big Data, WalmartLabs - its own technology hive
+has been indenifying customers' expectation and analyzing the purchasing
+patterns. This allows them to stock up on products are in demand and
+also will be in demand in the future. Another advantage Walmart is
+beneficial from is that it can track the purchasing patterns of the
+customers and recommend them further products and discounts to improve
+shopping experience.
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+One significant innovation from WalmartLabs is the "Social Genome
+Project". This is a big data analytics solution that analyzes billions
+of messages, posts, tweets and likes from Facebook to Twitter to Youtube
+videos etc.., as well as giving customers product information and
+discountf if they mention a Walmart product on social media. Real-time
+analysis is also a key-driver that helps the retailer to manage its
+inventory and analyzes the rate of its depletion. Thereby taking the
+necessary steps to mitigate it through efficient logistics and supply
+chain. Data science is also increasing the effieciency of store
+checkout. With the support from predictive analytics, Walmart can wasily
+determine the best checkout form for each store for example
+self-checkout and facilitated checkout.
 
-## What can the organization do with 3DM that they couldn’t do before?
+## What can the organization do with 3DM that they couldn't do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Like mentioned above, Walmart now can increase the checkout efficiency
+by installing self-checkout and facilitated checkout to boost the
+process. They can visualize customers' purchasing patterns and so on
+prepare for stock in demand fot that specific season/period, increasing
+sales significantly. With the right prediction, Walmart not only reduces
+cost and time, leverages sales and revenues but also improvoves customer
+satisfaction and shopping experience.
