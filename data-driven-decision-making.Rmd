@@ -1,25 +1,23 @@
 ---
-editor_options:
-  markdown:
-    wrap: 72
+title: "Assigment - Data Driven Business"
+date: "`r format(Sys.time(), '28th Feb , 2021')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
 ---
 
 ------------------------------------------------------------------------
 
-title: "Assigment - Data Driven Decision Making" author: Koko Nguyen
-date: "`r format(Sys.time(), '%d %B, %Y')`" output: html_notebook: toc:
-yes toc_depth: 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m5Iij3zQp_w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
-
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5Iij3zQp_w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" data-external="1" allowfullscreen></iframe>
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
 Walmart has been considered as one of a pioneers in using Data Science
-to upgrade their busniess across th U.S and to become the world's
+to upgrade their business across th U.S and to become the world's
 largest retailer. Using Big Data, WalmartLabs - its own technology hive
-has been indenifying customers' expectation and analyzing the purchasing
+has been identifying customers' expectation and analyzing the purchasing
 patterns. This allows them to stock up on products are in demand and
 also will be in demand in the future. Another advantage Walmart is
 beneficial from is that it can track the purchasing patterns of the
