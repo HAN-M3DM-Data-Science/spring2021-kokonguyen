@@ -16,35 +16,14 @@ output:
 
 Walmart has been considered as one of a pioneers in using Data Science
 to upgrade their business across th U.S and to become the world's
-largest retailer. Using Big Data, WalmartLabs - its own technology hive
-has been identifying customers' expectation and analyzing the purchasing
-patterns. This allows them to stock up on products are in demand and
-also will be in demand in the future. Another advantage Walmart is
-beneficial from is that it can track the purchasing patterns of the
-customers and recommend them further products and discounts to improve
+largest retailer. Using Big Data, WalmartLabs - its own technology hive has been identifying customers' expectation and analyzing the purchasing patterns. This allows them to stock up on products are in demand and also will be in demand in the future. Another advantage Walmart is beneficial from is that it can track the purchasing patterns of the customers and recommend them further products and discounts to improve
 shopping experience.
 
 ## How did the organization apply 3DM?
 
 One significant innovation from WalmartLabs is the "Social Genome
-Project". This is a big data analytics solution that analyzes billions
-of messages, posts, tweets and likes from Facebook to Twitter to Youtube
-videos etc.., as well as giving customers product information and
-discountf if they mention a Walmart product on social media. Real-time
-analysis is also a key-driver that helps the retailer to manage its
-inventory and analyzes the rate of its depletion. Thereby taking the
-necessary steps to mitigate it through efficient logistics and supply
-chain. Data science is also increasing the effieciency of store
-checkout. With the support from predictive analytics, Walmart can wasily
-determine the best checkout form for each store for example
-self-checkout and facilitated checkout.
+Project". This is a big data analytics solution that analyzes billions of messages, posts, tweets and likes from Facebook to Twitter to Youtube videos etc.., as well as giving customers product information and discount if they mention a Walmart product on social media. Real-time analysis is also a key-driver that helps the retailer to manage its inventory and analyzes the rate of its depletion. Thereby taking the necessary steps to mitigate it through efficient logistics and supply chain. Data science is also increasing the efficiency of store checkout. With the support from predictive analytics, Walmart can easily determine the best checkout form for each store for example self-checkout and facilitated checkout.
 
 ## What can the organization do with 3DM that they couldn't do before?
 
-Like mentioned above, Walmart now can increase the checkout efficiency
-by installing self-checkout and facilitated checkout to boost the
-process. They can visualize customers' purchasing patterns and so on
-prepare for stock in demand fot that specific season/period, increasing
-sales significantly. With the right prediction, Walmart not only reduces
-cost and time, leverages sales and revenues but also improvoves customer
-satisfaction and shopping experience.
+Like mentioned above, Walmart now can increase the checkout efficiency by installing self-checkout and facilitated checkout to boost the process. They can visualize customers' purchasing patterns and so on prepare for stock in demand for that specific season/period, increasing sales significantly. With the right prediction, Walmart not only reduces cost and time, leverages sales and revenues but also improves customer satisfaction and shopping experience.
