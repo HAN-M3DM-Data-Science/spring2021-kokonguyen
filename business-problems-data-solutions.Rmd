@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Koko Nguyen
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output:
   html_notebook:
@@ -8,19 +8,29 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+## Maersk Line is using the Internet of Things, Data and Analytics to change their culture
 
-<---- Embed code here ---->
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KEC5DQqCykI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external= "1"></iframe>
 
 
 ## What was the business problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Maersk Line is a Danish international container shipping company which  owns  owns more than 600 vessels and operates in over 130 countries. Holding account for 15% of world's GDP (2016), the century-old organization is thriving to fight against supply chain overhaul. The company that has enormous cost base whose money invested are heavily tied up in assets such as voyages and containers. Having spending more than 1 Billion dollars per year moving empty containers back and forth, Maersk needs to quickly find solutions to sustain its profitability and strengthen the global supply chain through data and analytics.
 
 ## How was it translated into a data mining problem?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+Maersk has shown no hesitation in tackle the problem by building the Maersk Advanced Analytics Team. The team focuses its big data project into two crucial area: empty container optimization and voyage optimization
+
+- The team first focuses on using data analytics (the aggregation of "structured" data on traditional platform like EDI, ERP with "unstructured" data or information flowing outside the normal channels ) to study the movement of containers, especially those without a shipment. 
+
+- These discoveries are then turn into high-quality visualizations detailing the route of all empty shipping containers. It gives Maersk the visibility ot needed to determine which of its ships were being underultilized. 
+
+- Maesk executives can forecast equipment movements with two-month instead of four-week window. Thus reducing the frequency of empty moves and enabling them to better match equipment with cargo. 
+
+- Maersk also use big data-analytics to automatically process Depots' needs and capacity. Then also automatically ensure those containers are routed to the right port, without going too far.
+
 
 ## What is the realized business value?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+By involving Data Science into its operation, Maersk has started to see visible impact on reducing cost of maintainance and fuel usage. Better voyage/ships optimization is also a transformative benefit for Maersk. Keeping the company relevant and restore profitability.
