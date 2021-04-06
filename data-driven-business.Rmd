@@ -7,19 +7,37 @@ output:
     toc_depth: 2
 ---
 
-Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
 
-<---- Embed code here ---->
+
+<iframe src='//players.brightcove.net/1971571337001/HkOJqCPWdb_default/index.html?videoId=6001376654001' allowfullscreen frameborder=0></iframe>
 
 
 ## What features define a data driven business?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
-
+According to Knight (2021), data-driven is defined as the utilization of data to the efficiently enhance decision making process as well as other related business activities. There are several signs to spot out a data-driven organization:
+  - There is always someone whose responsibility is to ensure that data is collected and communicated sufficiently. With this being said, it means that every workers can confidently and comfortably trust the data they are using.
+  - Opinion and ideas offered are accompanied by numbers and data. Decisions are no longer being made with biases, experience or belief but are backed up with facts   
+  - Everyone employee can access the data that related to them at any given time in any BI tools. With the the ease of accessing organizational data, one can now hasten the decision making process.
+  - Team receives proper training on data analysis and interpretation. The data literacy process not only provide understanding on using data for non-technical employees and also reduce workload for technical party.
+  
 ## What are the important features of a data culture?
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+In an interview with McKinsey, Sam Yagan - ShopRunner CEO, shared that his idea of building a data culture has been cascaded from day one. The few important features of a data oriented organization reflecting are
+
+  - The democratization of analytical data: Every employee has transparent access to data in order to make data-driven decisions in a matter of seconds.
+  - Data literacy: Yagan referred to this point as "making sure that they know how to fish". The CEO expect his employee to learn from the analytics team after each time they raised a request so the same request wont come twice. As a matter of fact, data-driven organization can only gain data citizens by closing the gap between business and technology (Peregud,2018).
+  - Executives model the behaviors: In order to be able to make decision based on data, having a researcher's mindset is quite important. If workers can see the executives team using data or hearing them talk about it in certain ways, they will start moving towards it.
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+
+After making its transition into the data-driven spectrum, companies can start making these transformation steps to become more mature in data driven business. Executives should think about building an array of data specialist consists of data scientist, data engineer, data analyst, etc that led by a chief data officer (CDO) to handling data throughout business. Leaders can also start thinking about investing data management initiatives such as data quality, big data analytics or machine learning to gain more insights from enterprise data (Kumar,2019).
+
+## Bibliography
+
+Michelle Knight. March31, 2011. What is data-driven?. Retrieved from: https://www.walkme.com/glossary/data-driven/
+
+Irina Peregud.September 26, 2018. Five Characteristics of a Data-Driven Company. Retrived from: https://tdwi.org/Articles/2018/09/26/PPM-ALL-Five-Characteristics-Data-Driven-Company.aspx?Page=1
+
+Kiran Kumar. Oct 30,2019. Building a Data-Driven Organization. Retrieved from:
+https://www.hellersearch.com/blog/building-a-data-driven-organization
 
